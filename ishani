@@ -1,0 +1,1 @@
+Write a pipe based communication between process and its child. •Use name pipe to create two programs interact with each other.•Use IPC mechanism to interact between two processes. •Unix Sockets can be used to interact between two remote servers.
